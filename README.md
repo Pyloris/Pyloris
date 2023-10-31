@@ -5,7 +5,4 @@
 - 📫 Reach me on twitter or linkedin.
 
 
-[![Shoaib's Github Stats](https://github-readme-stats.vercel.app/api?username=Pyloris)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyloris&hide=html,javascript,css,scss&theme=tokyonight)
+[![Shoaib's Github Stats](https://github-readme-stats.vercel.app/api?username=Pyloris)](https://github.com/anuraghazra/github-readme-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyloris\&hide=html,css,scss,ruby&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
