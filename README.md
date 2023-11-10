@@ -32,7 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shoaibwani"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shoaibwani" /></a></p>
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=pyloris&show_icons=true&locale=en" alt="pyloris" />
+<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=pyloris&show_icons=true&locale=en" alt="pyloris" />
 
-<p><img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyloris&" alt="pyloris" /></p>
+
+<p><img align="left" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyloris&" alt="pyloris" /></p>
 
