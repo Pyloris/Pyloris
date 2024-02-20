@@ -1,36 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shoaib Wani</h1>
-<h3 align="center">A student with passion for Stock Market and Computer Science alike. I am interested in Data Science and Blockchains. I also do subtle coding for Backend and may be if god wills, I might go for frontend too.</h3>
+# Shoaib Wani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyloris&label=Profile%20views&color=0e75b6&style=flat" alt="pyloris" /> </p>
+## Student | Developer | CTF Player | Lazy as Hell
 
-- 🔭 I’m currently working on **Ecommer**
+Hey there! I'm Shoaib Wani, a passionate student, developer, and CTF player. I'm always eager to learn new things and explore the world of programming. With a diverse skill set and interests ranging from cybersecurity to web development, I've been actively engaging with the GitHub community since December 2020. 
 
-- 🌱 I’m currently learning **Pandas, Matplotlib, Tensorflow, Backtrader, vectorbt, Django**
+If you want to connect or collaborate, feel free to reach out to me on [Twitter](https://twitter.com/beast_logics).
 
-- 👯 I’m looking to collaborate on **Blockchainer Module**
+## 🌐 My Skills and Interests
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pyloris](https://github.com/Pyloris)
+- 💻 Programming languages: Python, PHP, HTML, CSS, JavaScript, Shell scripting
+- 🔐 Cybersecurity and Capture the Flag (CTF) challenges
+- 🌐 Web development
+- 📊 Data science (ongoing interest) 
+- 💼 Backend development (currently interning in backend - Node.js)
+- 📈 Option trading enthusiast
 
-- 💬 Ask me about **Python, Data Science, Blockchains**
+Whatever project or challenge comes my way, I'm always up for it!
 
-- 📫 How to reach me **wanishoaib@protonmail.com**
+## 📊 GitHub Activity and Performance
 
-- ⚡ Fun fact **I am an INTROVERT:)**
+Let's take a closer look at some insights about my GitHub activity and performance:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ha0xer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ha0xer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoaibhassanwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaibhassanwani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14821477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14821477" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pyloris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pyloris" height="30" width="40" /></a>
-<a href="https://discord.gg/3429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3429" height="30" width="40" /></a>
-</p>
+- Public repositories: 14
+- Total commits: 287
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🏅 Project Contributions
 
-<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=pyloris&show_icons=true&locale=en" alt="pyloris" />
+While building my programming portfolio, I had the opportunity to contribute to various open-source projects. Here are some notable examples:
 
+1. [sirJuni](https://github.com/username/sirJuni): A PHP backend framework
+2. [note-now](https://github.com/username/note-now): A note-taking app
+3. [Fryers](https://github.com/username/Fryers): A Python wrapper for an API
 
-<p><img align="left" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyloris&" alt="pyloris" /></p>
+By contributing to these projects, I gained valuable experience in collaboration and open-source development.
 
+### 🔨 My Creations
+
+In addition to my contributions, I have also created my own repositories to showcase my skills and interests. Here are a couple of my noteworthy projects:
+
+- [Ecommer](https://github.com/username/Ecommer): An e-commerce website built with PHP
+- [Pyloris](https://github.com/username/Pyloris): My GitHub profile's configuration files
+
+Feel free to explore these repositories and dive into the code!
+
+### ⭐ GitHub Presence
+
+My presence in the GitHub community has been growing steadily. Here are some notable achievements:
+
+- Stars received: 15
+- Followers gained: 7
+
+It's truly motivating to receive recognition and appreciation for my work. I'm grateful for all the support from the GitHub community!
+
+## 🚀 Current Focus
+
+As I continue my journey in the world of programming and development, I am currently focused on backend development through my internship in Node.js. I am also nurturing an interest in data science and exploring new opportunities in this field.
+
+## 📫 Get In Touch
+
+If you'd like to collaborate on a project, have any questions, or just want to connect, feel free to reach out to me using the following platforms:
+
+- Email: [shoaib.wani@example.com](mailto:shoaib.wani@example.com)
+- Twitter: [@beast_logics](https://twitter.com/beast_logics)
+
+I'm always open to interesting conversations and opportunities to learn!
+
+## 📈 GitHub Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pyloris)](https://github.com/pyloris)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyloris)](https://github.com/pyloris)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=pyloris)](https://github.com/Pyloris)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pyloris)](https://git.io/streak-stats)
+
+## 🎉 Fun Fact
+
+To wrap things up, here's a fun fact: "There are two ways to write error-free programs; only the third one works." 🤪
+
+Thank you for visiting my GitHub profile and taking the time to learn more about me. Let's connect and create amazing things together!
