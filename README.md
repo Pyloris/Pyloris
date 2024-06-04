@@ -16,10 +16,12 @@ class Myself:
 
   def in_free_time():
     i_like = ["coding", "movies", "reading"]
+    return i_like
 
   def in_future():
     i_would_like_to = "contribute as much as i can to Open Source"
     also = "i would like to learn & grow as much as i can"
+    return i_would_like_to + " " + also
     
 ```
 
