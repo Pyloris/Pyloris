@@ -9,7 +9,7 @@ class Myself:
 
   def __init__(self):
     i_know = ["Javascript", "Python", "Nodejs", "ExpressJS", "MongoDB", "PostgreSQL", "Docker", "PrismaORM", "Bash"]
-    i_am_an = "Intern @snapsec"
+    i_am_an = "SDE I @snapsec"
     i_like = "Open Source"
     i_do = ["Backend Development", "Frontend Development"],
     i_am_learning = ["Algorithms & Data Structures", "Advanced Backend", "NextJS + React"]
