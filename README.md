@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Pyloris)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ha0x.png" alt="TryHackMe">
+
 ```python
 class Myself:
   name = "Shoaib Hassan Wani"
